@@ -159,13 +159,13 @@ a:hover{
 
 .footer{
     background-color: red;
-    margin-top: 25rem;
+    margin-top: 18rem;
     display: flex;
     justify-content: space-between;
     padding-bottom: 30px;
     padding-top: -20px;
     background-color: rgb(243, 241, 241);
-    height: 15vh;
+    height: 15vh;  
 }
 
 .footer-left{
