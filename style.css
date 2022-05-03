@@ -13,8 +13,7 @@
     height:12vh;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-   
+    align-items: center;   
 }
 .navbar_left{
     margin-left: 20px;
@@ -24,7 +23,7 @@
     list-style: none;
     width: 60px;
 
- 
+    
 }
 li>a{
     color: black;
